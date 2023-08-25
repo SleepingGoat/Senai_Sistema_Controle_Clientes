@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\bin\Debug\net7.0\Sistema_Controle_Clientes.exe
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\bin\Debug\net7.0\Sistema_Controle_Clientes.deps.json
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\bin\Debug\net7.0\Sistema_Controle_Clientes.runtimeconfig.json
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\bin\Debug\net7.0\Sistema_Controle_Clientes.dll
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\bin\Debug\net7.0\Sistema_Controle_Clientes.pdb
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\obj\Debug\net7.0\Sistema_Controle_Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\obj\Debug\net7.0\Sistema_Controle_Clientes.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\obj\Debug\net7.0\Sistema_Controle_Clientes.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\obj\Debug\net7.0\Sistema_Controle_Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\obj\Debug\net7.0\Sistema_Controle_Clientes.dll
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\obj\Debug\net7.0\refint\Sistema_Controle_Clientes.dll
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\obj\Debug\net7.0\Sistema_Controle_Clientes.pdb
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\obj\Debug\net7.0\Sistema_Controle_Clientes.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Sistema_Controle_Clientes\obj\Debug\net7.0\ref\Sistema_Controle_Clientes.dll
